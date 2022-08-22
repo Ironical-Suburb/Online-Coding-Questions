@@ -1,0 +1,6 @@
+N = int(input())
+total = int(input())
+for i in range(1,N):
+    value = int(input())
+    total += value
+print(total-(N-1))
