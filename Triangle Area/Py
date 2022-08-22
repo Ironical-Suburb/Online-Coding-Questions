@@ -1,0 +1,6 @@
+line = input()
+h, b = line.split()
+h = int(h)
+b = int(b)
+Area = (h*b)*0.5
+print (Area)
