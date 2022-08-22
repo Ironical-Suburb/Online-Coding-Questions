@@ -1,0 +1,6 @@
+n = input()
+prefix = n[0:3]
+if prefix == '555':
+    print('1')
+else:
+    print('0')
