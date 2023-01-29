@@ -1,12 +1,6 @@
-
-<div id="header" align="Center">
-  <img src="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ.gif" width="200" align="center"/>
-</div>
-<br>
-</div>
 <h1 align ='center'>
      Hi Fellow Coders !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="30px"/>
 </h1>
 - :man_technologist: I'm a Sophomore at University Of Alberta.
 <br>
