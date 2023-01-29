@@ -1,8 +1,10 @@
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="100px" width="100px" allign="centre"/>
+<br>
+<br>
 <h1 align ='center'>
      Hi Fellow Coders !
-<br>
-     <br>
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100px" allign="centre"/>
+
+ 
 </h1>
 - :man_technologist: I'm a Sophomore at University Of Alberta.
 <br>
