@@ -1,1 +1,2 @@
-# Kattis-Solutions
+# KATTIS SOLUTIONS
+# LEETCODE SOLUTIONS
