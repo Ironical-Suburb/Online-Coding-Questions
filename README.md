@@ -1,6 +1,7 @@
 <h1 align ='center'>
      Hi Fellow Coders !
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="30px"/>
+<br>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="80px" allign="centre"/>
 </h1>
 - :man_technologist: I'm a Sophomore at University Of Alberta.
 <br>
