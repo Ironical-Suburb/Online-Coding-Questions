@@ -5,7 +5,7 @@
      <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="300px" width="300px" align="centre"/>
 
 </h1>
-- :man_technologist: This repository is for kattis solution.
+- :man_technologist: This repository is for posting online coding questions solution.
 <br>
 - :seedling: People are welcome to commit changes to it and add their own solutions.
 <br>
