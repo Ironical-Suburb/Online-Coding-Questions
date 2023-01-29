@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="100px" width="100px" align="centre"/>
-<br>
-<br>
 <h1 align ='center'>
+     <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="300px" width="300px" align="centre"/>
+<br>
+<br>
      Hi Fellow Coders !
 </h1>
 - :man_technologist: I'm a Sophomore at University Of Alberta.
