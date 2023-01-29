@@ -1,9 +1,10 @@
 <h1 align ='center'>
  
      Hi Fellow Coders !
-         <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="300px" width="300px" align="centre"/>
+ <br>
 <br>
-<br>
+     <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" length ="300px" width="300px" align="centre"/>
+
 </h1>
 - :man_technologist: I'm a Sophomore at University Of Alberta.
 <br>
