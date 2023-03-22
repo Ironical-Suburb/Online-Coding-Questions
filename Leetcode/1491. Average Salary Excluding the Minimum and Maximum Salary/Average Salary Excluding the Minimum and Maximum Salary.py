@@ -17,4 +17,4 @@ class Solution(object):
         sum_salary = sum(salary)
         average=sum_salary/len(salary)
         average = round(average,5)
-        return average
+        return (average)
