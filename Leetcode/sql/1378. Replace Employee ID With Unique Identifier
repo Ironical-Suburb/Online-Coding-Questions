@@ -1,0 +1,2 @@
+select EmpU.unique_id , emp.name
+from Employees emp left outer join EmployeeUni EmpU on emp.id = EmpU.id
