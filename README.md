@@ -11,4 +11,4 @@
 <br>
 - :mailbox: For any questions : pusola@ualberta.ca
 <br>
-- :hammer_and_wrench: Hoping to finish all questions till the end of 2023
+- :hammer_and_wrench: Hoping to finish all questions till the end of 2024
